@@ -1,0 +1,2 @@
+cd react-app
+npm run dev //this runs the local host server
